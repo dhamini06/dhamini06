@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Dhamini  
 
-🎓 Student | 💻 Python Developer | 🚀 Aspiring AI Engineer  
+🎓 Student | 💻 Java Developer | 🚀 Cyber Security Enthusiast 
 
 ---
 
