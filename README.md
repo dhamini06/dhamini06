@@ -40,9 +40,18 @@
 
 ## 🚀 Projects
 
-### 🔍 Port Scanner — Network Recon Tool
-A Python-based multi-threaded port scanner that identifies open ports and services on a target host. Built to understand low-level networking and socket programming.
-`Python` `Networking` `Cybersecurity`
+### 🔍SOC Analyst Simulation Project
+Cybersecurity  |  Log Analysis  |  SIEM  |  Threat Detection  |  Incident Response
+•	Simulated a real-world SOC environment; conducted log analysis, event correlation, and threat classification with structured incident workflows.
+•	Produced detailed incident reports covering attack vectors, severity classifications, and recommended remediation strategies.
+Fake News Detection System
+Python  |  Scikit-learn  |  TF-IDF  |  PassiveAggressiveClassifier  |  Streamlit
+•	Developed a supervised ML system to classify news articles as real or fake using TF-IDF vectorization with high classification accuracy.
+•	Deployed an interactive Streamlit web app for real-time news analysis, prediction scores, and user-friendly text input interface.
+Student Finance Management App
+React.js  |  Firebase Firestore  |  Firebase Authentication  |  JavaScript
+•	Engineered a full-stack expense tracking app with category-based reporting, budget monitoring, and a responsive React UI for students.
+•	Implemented Firebase Auth for secure multi-user login and Firestore for real-time cloud data synchronization across devices and sessions.
 
 ---
 
@@ -81,7 +90,7 @@ Experimenting with LLM APIs to build a tool that summarises lengthy conversation
 ## 🌐 Connect
 
 📧 dhamini467@gmail.com  
-📍 Hyderabad, India
+📍 Andhra Pradesh, India
 
 ---
 
