@@ -62,7 +62,7 @@ Experimenting with LLM APIs to build a tool that summarises lengthy conversation
 
 | Area | Topics | Progress |
 |------|---------|----------|
-| Data Structures & Algorithms | Graphs, DP, Advanced Trees | 🟦🟦🟦🟦⬜⬜⬜⬜ 50% |
+| Data Structures & Algorithms | Graphs, DP, Advanced Trees | 🟦🟦🟦🟦⬜⬜⬜⬜⬜ 45% |
 | Machine Learning | sklearn, regression, classification | 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ 30% |
 | Ethical Hacking | Kali Linux, OWASP, Nmap | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 45% |
 | Full Stack Dev | React, Node.js, REST APIs | 🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 20% |
