@@ -44,11 +44,12 @@
 Cybersecurity  |  Log Analysis  |  SIEM  |  Threat Detection  |  Incident Response
 •	Simulated a real-world SOC environment; conducted log analysis, event correlation, and threat classification with structured incident workflows.
 •	Produced detailed incident reports covering attack vectors, severity classifications, and recommended remediation strategies.
-### Fake News Detection System
+### <img width="498" height="373" alt="BonnerFolhaGIF" src="https://github.com/user-attachments/assets/76663465-023f-4299-852b-38dcfe29fcb8" />
+Fake News Detection System
 Python  |  Scikit-learn  |  TF-IDF  |  PassiveAggressiveClassifier  |  Streamlit
 •	Developed a supervised ML system to classify news articles as real or fake using TF-IDF vectorization with high classification accuracy.
 •	Deployed an interactive Streamlit web app for real-time news analysis, prediction scores, and user-friendly text input interface.
-### Student Finance Management App
+### 💸Student Finance Management App
 React.js  |  Firebase Firestore  |  Firebase Authentication  |  JavaScript
 •	Engineered a full-stack expense tracking app with category-based reporting, budget monitoring, and a responsive React UI for students.
 •	Implemented Firebase Auth for secure multi-user login and Firestore for real-time cloud data synchronization across devices and sessions.
