@@ -44,7 +44,7 @@
 Cybersecurity  |  Log Analysis  |  SIEM  |  Threat Detection  |  Incident Response
 •	Simulated a real-world SOC environment; conducted log analysis, event correlation, and threat classification with structured incident workflows.
 •	Produced detailed incident reports covering attack vectors, severity classifications, and recommended remediation strategies.
-### <img width="498" height="373" alt="BonnerFolhaGIF" src="https://github.com/user-attachments/assets/76663465-023f-4299-852b-38dcfe29fcb8" />
+### <img width="40" height="30" alt="BonnerFolhaGIF" src="https://github.com/user-attachments/assets/76663465-023f-4299-852b-38dcfe29fcb8" />
 Fake News Detection System
 Python  |  Scikit-learn  |  TF-IDF  |  PassiveAggressiveClassifier  |  Streamlit
 •	Developed a supervised ML system to classify news articles as real or fake using TF-IDF vectorization with high classification accuracy.
